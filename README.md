@@ -51,7 +51,7 @@ These companies gave their paid products for free to contribute to open-source
     Crowdin by Crowdin LLC
 
 
-* Features:
+Features:
 - Ability to create Memos in two predefined categories; Prayers and Medications.
 - Ability to attach files into the memos; audio files, pictures, videos, sketches...
 - Ability to set highly costumizable reminders on memos, that are adequate of every possible usage case scenario.
